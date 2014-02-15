@@ -1,4 +1,4 @@
-# alexindigo/base_dev
+# alexindigo/base-dev
 FROM      ubuntu
 MAINTAINER Alex Indigo <iam@alexindigo.com>
 
