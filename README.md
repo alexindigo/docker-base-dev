@@ -1,4 +1,4 @@
-# docker-base_dev
+# docker-base-dev
 
 Base development docker container
 
